@@ -1,6 +1,15 @@
 # Learning Bash Scripting  
 
-## Introduction
+## Module-1
+-Introduction
 
-### Using Comments & Variables
+### Module-2
+-Using Comments & Variables 
+
+## Module-3
+-Read User Input
+
+## Module-3.1
+-setting up a VM
+
 
